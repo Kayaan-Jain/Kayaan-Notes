@@ -9,5 +9,4 @@ flask
 flask_login
 sqlalchemy
 flask_sqlalchemy
-json
 
