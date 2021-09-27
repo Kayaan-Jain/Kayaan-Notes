@@ -6,4 +6,9 @@ idna==3.2
 requests==2.26.0
 urllib3==1.26.7
 flask
+flask_login
+sqlalchemy
+os
+flask_sqlalchemy
+json
 
